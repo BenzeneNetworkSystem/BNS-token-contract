@@ -26,7 +26,7 @@ It is a **temporary funding token**. In the future, the Benzene Network will lau
 
 ## 🔍 Contract Code
 
-You can view the smart contract in [`AntiBotStandardToken.sol`](./AntiBotStandardToken.sol)
+You can view the smart contract in [`AntiBotStandardToken.sol.txt`](./AntiBotStandardToken.sol.txt)
 
 Key contract details:
 - Uses SafeMath for safe arithmetic
@@ -58,7 +58,7 @@ MIT License – Free to audit and fork.
 ## 🔗 Useful Links
 
 - 📢 Official Website: (https://www.benzenenetwork.com)
-- 📜 Whitepaper: (Whitepaper.benzenenetwork.com)
+- 📜 Whitepaper: (Whitepaper.benzenenetwork.com)[Whitepaper.benzenenetwork.com]
 - 🐦 Twitter: [@benzenenetwork](https://x.com/benzenenetwork)
 - 💬 Telegram: 
-(https://t.me/TeamBNS)
+(https://t.me/TeamBNS)[https://t.me/TeamBNS]
