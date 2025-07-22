@@ -58,7 +58,7 @@ MIT License – Free to audit and fork.
 ## 🔗 Useful Links
 
 - 📢 Official Website: (https://www.benzenenetwork.com)
-- 📜 Whitepaper: (Whitepaper.benzenenetwork.com)[Whitepaper.benzenenetwork.com]
+- 📜 Whitepaper: (Whitepaper.benzenenetwork.com)
 - 🐦 Twitter: [@benzenenetwork](https://x.com/benzenenetwork)
 - 💬 Telegram: 
 (https://t.me/TeamBNS)[https://t.me/TeamBNS]
