@@ -61,4 +61,4 @@ MIT License – Free to audit and fork.
 - 📜 Whitepaper: (Whitepaper.benzenenetwork.com)
 - 🐦 Twitter: [@benzenenetwork](https://x.com/benzenenetwork)
 - 💬 Telegram: 
-(https://t.me/TeamBNS)[https://t.me/TeamBNS]
+(https://t.me/TeamBNS).
